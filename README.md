@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 The **Birthday Reminder Bot** is an RPA solution built using UiPath that automates the process of sending birthday wishes via email.  
-It reads employee data from an Excel file, checks for birthdays matching the current date, and sends personalized emails automatically.
+It reads persons data from an Excel file, checks for birthdays matching the current date, and sends personalized emails automatically.
 
 ---
 
